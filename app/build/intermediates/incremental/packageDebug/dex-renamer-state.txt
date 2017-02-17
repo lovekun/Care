@@ -1,0 +1,7 @@
+#Fri Feb 17 15:06:51 CST 2017
+base.0=/Users/qiuaikun/Desktop/Care/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb08bcf158d46e6a0800cc011336ae7345cd55dc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/qiuaikun/Desktop/Care/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be66e3d34167172cfc312480c97da2b044874a99/classes.dex
+base.1=/Users/qiuaikun/Desktop/Care/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be66e3d34167172cfc312480c97da2b044874a99
+file.0=/Users/qiuaikun/Desktop/Care/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb08bcf158d46e6a0800cc011336ae7345cd55dc/classes.dex

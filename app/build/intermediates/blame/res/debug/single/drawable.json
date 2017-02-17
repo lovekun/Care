@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/call_record_button_pressed.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/call_record_button_pressed.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/speaking.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/speaking.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/note_selected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/note_selected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/tocallpage.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/tocallpage.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/check_main_green.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/check_main_green.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/patient_pic.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/patient_pic.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/nurse_photo.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/nurse_photo.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radiobutton_right_advice.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radiobutton_right_advice.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_back_pressed.9.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/note_right.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/note_right.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/heart_rate_bg.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/heart_rate_bg.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radio_left_unchecked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radio_left_unchecked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/user_icon.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/user_icon.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_right_image.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_right_image.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_unchecked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_unchecked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_btn_menu_normal.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_btn_menu_normal.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/pulse_bg.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/pulse_bg.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/base_info_btn.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/base_info_btn.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/note_down.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/note_down.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_right_unchecked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_right_unchecked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/add.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/call.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/call.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radio_right_checked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radio_right_checked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_checkbox.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_checkbox.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/qrcode_scan_line.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/qrcode_scan_line.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_checked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_checked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/back_tip.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/back_tip.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radiobutton_left_advice.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radiobutton_left_advice.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/temperature_pic.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/temperature_pic.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_right_checked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_right_checked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_btn.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_btn.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/pulse_pic.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/pulse_pic.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/sign_selected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/sign_selected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radio_left_checked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radio_left_checked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_back_focused.9.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_left_pic.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_left_pic.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_selected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_selected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/blue_shape.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/blue_shape.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/patient_pic_green.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/patient_pic_green.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/head_photo.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/head_photo.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radio_right_unchecked.jpg",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radio_right_unchecked.jpg"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_save.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_save.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_left_unchecked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_left_unchecked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/cancel_call.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/cancel_call.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_btn_focused.9.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radiogroup_main.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radiogroup_main.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_btn_normal.9.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_choose.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_choose.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/base_info_button.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/base_info_button.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/gou_pic.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/gou_pic.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_delete.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_delete.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/direction_right.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/direction_right.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/body_temperature.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/body_temperature.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/sign_unselected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/sign_unselected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/note_add.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/note_add.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/down.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/loginbg.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/loginbg.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/temperature.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/temperature.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/heart_rate_data.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/heart_rate_data.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/profile_pic.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/profile_pic.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radiobutton_left_main.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radiobutton_left_main.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/heart_rate_pic.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/heart_rate_pic.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_edit.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_edit.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_back_btn.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_back_btn.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/women_tip.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/women_tip.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/memo_unselected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/memo_unselected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/button_login.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/button_login.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/call_record_button.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/call_record_button.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_back_normal.9.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/pulse_data.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/pulse_data.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/man_tip.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/man_tip.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/head_bg.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/head_bg.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_btn_pressed.9.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/call_icon.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/call_icon.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_unselected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_unselected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/head_right_tip.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/head_right_tip.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/radiobutton_right_main.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/radiobutton_right_main.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_gou.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_gou.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_left_checked.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_left_checked.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/call_record_btn.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/call_record_btn.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/check_main_blue.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/check_main_blue.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/down_tip.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/down_tip.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/psd_icon.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/psd_icon.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/advice_selected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/advice_selected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/heart_rate.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/heart_rate.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/temperature_bg.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/temperature_bg.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/pulse.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/pulse.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/base_info_button_pressed.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/base_info_button_pressed.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/uncheck_main.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/uncheck_main.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/patient_pic_blue.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/patient_pic_blue.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mmtitle_bg_alpha.9.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/edittext_login.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/edittext_login.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/up.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/paly_voice.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/paly_voice.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/temperature_data.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/temperature_data.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/note_unselected.png",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/note_unselected.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/mm_title_right_btn.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/src/main/res/drawable/mm_title_right_btn.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    }
+]

@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:15:19-67
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:17:5-69
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:17:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:19:22-68
+application
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:21:5-85:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/qiuaikun/Desktop/Care/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:23:9-38
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:25:9-40
+activity#upa.jiangnan.care.MainActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:27:13-41
+activity#upa.jiangnan.care.activity.LoginActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:30:9-39:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:31:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:37:27-74
+activity#upa.jiangnan.care.activity.MainActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:41:13-50
+activity#upa.jiangnan.care.activity.BaseInfoActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:47:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:46:13-54
+activity#upa.jiangnan.care.activity.CallRecordActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:52:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:53:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:51:13-56
+activity#upa.jiangnan.care.activity.PatientDetailActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:57:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:58:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:56:13-59
+activity#upa.jiangnan.care.activity.TemperatureActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:63:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:61:13-57
+activity#upa.jiangnan.care.activity.PulseActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:65:9-69:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:67:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:68:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:66:13-51
+activity#upa.jiangnan.care.activity.HeartRateActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:70:9-74:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:72:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:73:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:71:13-55
+activity#upa.jiangnan.care.activity.CallPageActivity
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:75:9-79:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:77:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:78:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:76:13-54
+activity#com.jn.care.zxing.MipcaActivityCapture
+ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:80:9-84:20
+	android:label
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:82:13-45
+	android:theme
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:83:13-66
+	android:name
+		ADDED from /Users/qiuaikun/Desktop/Care/app/src/main/AndroidManifest.xml:81:13-66
